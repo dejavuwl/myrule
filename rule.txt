@@ -22,4 +22,5 @@ github.com,
 *.coursera.org,
 *.amazonaws.com,
 *.sublimetext.com,
-sublimetextbook.com
+sublimetextbook.com,
+ycombinator.com
